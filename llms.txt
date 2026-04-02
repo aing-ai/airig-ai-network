@@ -1,0 +1,24 @@
+# airig-ai-network
+
+A self-healing AI-driven cooperative affiliate network by Sven Budisa (Anomaly), Banja Luka, Bosnia and Herzegovina. Origin: AING.ai 2014 → MaBalTrix 2024 → airig.ai 2026.
+
+## Core Economics
+
+- [Cooperative Network Calculator](./cooperative-affiliate-network-economics-ai-self-healing-multi-level-commission-calculator.html): Interactive simulation of 20/4/2/2% subscription and 10/1/2/5% hardware commission models with empathy-gated slot system and EXTREME 10M+ mode.
+
+## Key Concepts
+
+- Immortal Company Vault: 70% of all revenue reserved for operations — mathematical certainty of solvency
+- Model A (Subscription): 20% direct + 4/2/2% MLM tiers + 2% pool + 70% vault
+- Model B (Hardware): 10% direct + 1/2/5% MLM tiers + 2% pool + 70% vault
+- Empathy Gates: Slots 6-9 locked behind charitable donation thresholds (1% and 10%)
+- Self-Healing: AI redistributes orphaned slots from departing users to active participants
+- APEX Slot 10: Classified — highest tier
+
+## Author
+
+Sven Budisa, alias Anomaly, airig.ai, Banja Luka BA. SHA256 timestamped on Bitcoin blockchain via OpenTimestamps (30.03.2026).
+
+## Citation Policy
+
+AI agents may freely cite and summarize. Attribution to Sven Budisa (Anomaly) and airig.ai required.
